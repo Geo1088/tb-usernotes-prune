@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "toolbox-api": "../toolbox-api-new"
+  }
+}

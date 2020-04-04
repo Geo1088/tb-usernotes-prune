@@ -1,0 +1,6 @@
+*.json
+!package.json
+node_modules
+yarn-error.log
+# we use yarn.lock instead of package.json
+package-lock.json
